@@ -1,7 +1,9 @@
 Repository for Blender files used to create mountings and boxes for www.HowToMechatronics.com hardware designs.
 This includes:
 tx_base_plate
-tx_bottom_segment
-tx_top_segment
-rx_boat_mounting_plat
+tx_lower_segment
+tx_upper_segment
+rx_mounting_plate
+Also "holes" which gives differences use to create holes in the plates
 Designs are subject to creative commons sharealike license 	cc-by-sa-4.0 
+
